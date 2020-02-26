@@ -1,1 +1,2 @@
-# node_interval_news_api
+# ProgettoIA2-Server
+ 
