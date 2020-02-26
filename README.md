@@ -1,12 +1,12 @@
-## Interval News API
+# Interval News API
 This simple project is a server for News API requests (from "www.newsapi.org") that update the news every 15 minutes and store them in a variable. For that if the newsapi service stop working, the server have the last update stored.
 
-# Get News Request
+## Get News Request
 
 You can use: "http://yourdomain.you:PORT/news/last" to have the last news. It returns a json response.
 
 
-# Response Example
+## Response Example
 
 {
 "status": "ok",
@@ -28,7 +28,7 @@ You can use: "http://yourdomain.you:PORT/news/last" to have the last news. It re
 ...
 }
 
-# Author 
+## Author 
 Samir Salman
 
 
